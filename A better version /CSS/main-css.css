@@ -220,7 +220,7 @@ overflow-y: auto;
 }
 .cart-content-container{
     width: 60%;
-    height: 500px;
+    height: 22vh;
     padding-top: 3em;
     overflow-x: scroll;
     bottom: -1em;
